@@ -14,7 +14,7 @@ Hice la fase 1 de la certificación de Cisco CCNA versión 7 durante un lapso ap
 ## Exámen IELTS Inglés
 Conseguí un 7.5 en el exámen de inglés del IELTS, lo cual es equivalente a un C1. 
 
-    Certificados/
+![Examen IELTS](Certificados/IELTS.jpg)
 
 ## Aplicación Web para Ternium
 Realicé una aplicación web que permitía recibir archivos .csv con un formato espefífico que usa Ternium para aplicar un modelo de identificación de anomalías, para que así dicha información pueda ser usada para generar y descargar reportes con gráficas.
