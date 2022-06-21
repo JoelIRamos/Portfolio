@@ -1,7 +1,11 @@
-# Estructura de Portafolio de Joel Isaí Ramos Hernández
-Este repositorio sirve para organizar los archivos de mi portafolio, proyectos, certificados, etc.
+# Portafolio de Joel R.
+Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC en el Tec de Monterrey. Actualmente me encuentro terminando mi 6to semestre y las áreas de estudio que más me han gustado de mi carrera han sido las siguientes:
+- Desarrollo de Rest APIs (WebAPIs en Express.js o Django)
+- Administración y manejo de Bases de Datos (Azure, TSQL, MongoDB)
+- Administración de Redes
+- Temas de ciberseguridad
 
-Algunos de los proyectos escolares que se mencionan se encuentran anexados aquí mismo, pero otros solo se da la liga del repositorio dado que se encuentran bajo un contrato de confidencialidad. 
+En un futuro me gustaría estar trabajando en un puesto como consultor de Ciberseguridad.
 
 # Currículum Vitae
 ![Currículum Vitae de Joel Ramos](Certificados/Joel-Ramos-Currículum-vitae.png)
@@ -75,13 +79,17 @@ Mi trabajo principal fue todo lo relacionado al Back-end como lo fue el manejo d
 | 5 | TC2007B | Integración de seguridad informática en redes y sistemas de software | Aplicación para **CaritasMTY** | Sí |
 | 6 | TC3001B | Desarrollo e implantación de sistemas de software | Interfaz Analítico de Anomalías de Comportamiento (para **Ternium**) | Sí |
 
+Algunos de los proyectos escolares que se mencionan se encuentran bajo un contrato de confidencialidad, por lo que no cualquier persona tiene permiso de ver el dichos repositorios. 
+
+
 # Resumen de Certificados
 | Año | Empresa | Descripción |
 | --- | --- | --- |
+| 2022 | Ternium | Interfaz Analítico Anomalías de Comportamiento |
 | 2022 | Cisco Networking Academy | Cisco CCNAv7 Fase 1|
 | 2022 | British Council | IELTS Exámen de Inglés |
 | 2021 | Tec de Monterrey | Alumno Distinguido en Actuación Principiantes |
 | 2021 | Tec de Monterrey | Curso de Lengua de Señas Mexicanas Nivel Básico 1 |
 | 2021 | Ternium | Proyecto Capacitación y Onboarding |
-|  |  |  |
+
 
