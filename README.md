@@ -8,15 +8,17 @@ Algunos de los proyectos escolares que se mencionan se encuentran anexados aquí
 
 # Logros Destacados y/o Recientes
 ## CCNAv7 Fase 1
-Lorem impsu
+Hice la fase 1 de la certificación de Cisco CCNA versión 7 durante un lapso aproximado de 3 meses (1 marzo al 30 de mayo). Actualmente me encuentro estudiando la segunda fase de esta certificación. 
 
 ![CCNAv7 Fase 1](Certificados/CCNAv7F1.PNG)
 ## Exámen IELTS Inglés
-Lorem impsu
+Conseguí un 7.5 en el exámen de inglés del IELTS, lo cual es equivalente a un C1. 
 
     Certificados/
+
 ## Aplicación Web para Ternium
-Lorem impsu
+Realicé una aplicación web que permitía recibir archivos .csv con un formato espefífico que usa Ternium para aplicar un modelo de identificación de anomalías, para que así dicha información pueda ser usada para generar y descargar reportes con gráficas.
+Mi aportación principal al software de este proyecto fue el manejo de la base de datos no relacional con MongoDB y la WebAPI construida con Django y Pymongo (Python).
 ### Inicio de la app
 ![Inicio de la app](Proyectos-Escolares/TC3001B/Inicio.png)
 ### Arrastrar Archivo
@@ -30,7 +32,8 @@ Lorem impsu
 ### Descargar Reportes
 ![Descargar Reportes](Proyectos-Escolares/TC3001B/DescargarReporte.gif)
 ## Aplicación Mobil para Caritas MTY
-Lorem impsu
+Realicé una aplicación para que los usuarios de Caritas MTY pudieran ver sus donaciones a travez de la App y además inlcuimos funcionalidades clásicas de su página web.
+Mi aportacion a este trabajo fue el manejo de las bases de datos relacionales y la WebAPI contruida con Express.js.
 ### Logo
 ![Logo](Proyectos-Escolares/TC2007B/Logo.PNG)
 ### Menu
@@ -42,7 +45,8 @@ Lorem impsu
 ### Noticia
 ![Noticia](Proyectos-Escolares/TC2007B/Noticia.PNG)
 ## Videojuego y página web para Ternium
-Lorem impsu
+Realicé principalmente un videojuego para entrenar a los nuevos reclutas de Ternium de una forma divertida.
+Mi trabajo principal fue todo lo relacionado al Back-end como lo fue el manejo de la Base de datos en Azure y la WebAPI construida con Express.js.
 ### Inicio
 ![Inicio](Proyectos-Escolares/TC2005B/Inicio.PNG)
 ### Avatar
