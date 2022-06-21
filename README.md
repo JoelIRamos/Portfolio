@@ -10,7 +10,7 @@ Algunos de los proyectos escolares que se mencionan se encuentran anexados aquí
 ## CCNAv7 Fase 1
 Lorem impsu
 
-    Certificados/
+![CCNAv7 Fase 1](Certificados/CCNAv7F1.PNG)
 ## Exámen IELTS Inglés
 Lorem impsu
 
