@@ -73,11 +73,15 @@ Mi trabajo principal fue todo lo relacionado al Back-end como lo fue el manejo d
 | 5 | TC2038 | Análisis y diseño de algoritmos avanzados | Transmisiones de datos comprometidas, Alta demanda para los Proveedores de Servicios de Internet (ISP) | No |
 | 5 | TC2001S | Siguiente nivel: experto en programación competitiva | - | No |
 | 5 | TC2007B | Integración de seguridad informática en redes y sistemas de software | Aplicación para **CaritasMTY** | Sí |
-| 6 | | Desarrollo e implantación de sistemas de software | Interfaz Analítico de Anomalías de Comportamiento (para **Ternium**) | Sí |
+| 6 | TC3001B | Desarrollo e implantación de sistemas de software | Interfaz Analítico de Anomalías de Comportamiento (para **Ternium**) | Sí |
 
 # Resumen de Certificados
 | Año | Empresa | Descripción |
 | --- | --- | --- |
-
-
+| 2022 | Cisco Networking Academy | Cisco CCNAv7 Fase 1|
+| 2022 | British Council | IELTS Exámen de Inglés |
+| 2021 | Tec de Monterrey | Alumno Distinguido en Actuación Principiantes |
+| 2021 | Tec de Monterrey | Curso de Lengua de Señas Mexicanas Nivel Básico 1 |
+| 2021 | Ternium | Proyecto Capacitación y Onboarding |
+|  |  |  |
 
