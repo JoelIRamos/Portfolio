@@ -5,7 +5,10 @@ Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC
 - Administración de Redes
 - Temas de ciberseguridad
 
-En un futuro me gustaría estar trabajando en un puesto como consultor de Ciberseguridad.
+En un futuro me gustaría estar trabajando en un puesto como Consultor de Ciberseguridad, ese sería uno de los trabajos de mis sueños. Como realmente me falta todavía bastante experiencia para dicho puesto, me gustaría empezar por otros trabajos en lo que consigo la experiencia suficiente, como por ejemplo:
+- Desarollador de backend
+- Pentester
+- Administrador de redes
 
 # Currículum Vitae
 ![Currículum Vitae de Joel Ramos](Certificados/Joel-Ramos-Currículum-vitae.png)
