@@ -1,9 +1,10 @@
 # Portafolio de Joel I. Ramos
-Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC en el Tec de Monterrey. Actualmente me encuentro terminando mi 6to semestre y las áreas de estudio que más me han gustado de mi carrera han sido las siguientes:
-- Desarrollo de Rest APIs (WebAPIs en Express.js o Django)
-- Administración y manejo de Bases de Datos (Azure, TSQL, MongoDB)
+Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC en el Tec de Monterrey. Actualmente me encuentro iniciando mi 8vo semestre y las áreas de estudio que más me han gustado de mi carrera han sido las siguientes:
 - Administración de Redes
 - Temas de ciberseguridad
+- Desarrollo de Rest APIs (WebAPIs en Express.js o Django)
+- Administración y manejo de Bases de Datos (Azure, TSQL, MongoDB)
+
 
 En un futuro me gustaría estar trabajando en un puesto como Consultor de Ciberseguridad, ese sería uno de los trabajos de mis sueños. Como realmente me falta todavía bastante experiencia para dicho puesto, me gustaría empezar por otros trabajos en lo que consigo la experiencia suficiente, como por ejemplo:
 - Desarollador de backend
