@@ -1,4 +1,4 @@
-# Portafolio de Joel I. Ramos
+# Resumen del Portafolio
 Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC en el Tec de Monterrey. Actualmente me encuentro iniciando mi 8vo semestre y las áreas de estudio que más me han gustado de mi carrera han sido las siguientes:
 - Administración de Redes
 - Temas de ciberseguridad
