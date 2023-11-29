@@ -4,7 +4,7 @@ Mi nombre es Joel Isaí Ramos Hernández, soy un estudiante de la carrere de ITC
 - Temas de ciberseguridad
 - Desarrollo de Rest APIs (WebAPIs en Express.js o Django)
 - Administración y manejo de Bases de Datos (Azure, TSQL, MongoDB)
-
+ 
 # Currículum Vitae
 ![Currículum Vitae de Joel Ramos](Certificados/Joel-Ramos-Currículum-vitae.png)
 
