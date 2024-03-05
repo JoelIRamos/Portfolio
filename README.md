@@ -8,7 +8,7 @@ The areas of study that I liked the most during my degree were the following:
 - Database Administration (SQL/TSQL & MongoDB)
 
 # Review my Curriculum Vitae
-![Curriculum Vitae of Joel Ramos](Certificates_and_Diplomas/Joel-Ramos-Curriculum-vitae.png)
+![Curriculum Vitae of Joel Ramos](Certificates_and_Diplomas/Joel-I-Ramos-Curriculum-vitae.png)
 
 # Recent Achievements
 
@@ -24,13 +24,13 @@ Méxican Electronic Card (Cédula Profesional): 13886158
 
 [![Joel I. Ramos' B. S. Title in Computer Science and Technology](Certificates_and_Diplomas/Degree/Título_Profesional.png)](https://certificados.tec.mx/certificate/ebf35b8f713e599f8a2eb0d5895f1007).
 
-<!-- ## Honorable Mention of Excellence -->
+<!-- ## Honorable Mention of Excellence 
 
 ## Internship in Paris, France
 
 ## Internship in Monterrey, NL
 
-## Cibersecurity Concentration
+## Cibersecurity Concentration-->
 
 
 ## CiberOps
