@@ -4,15 +4,16 @@ I'm Joel I. Ramos. I recently graduated <a href="https://tec.mx/en/computer-scie
 The areas of study that I liked the most during my degree were the following:
 - Network Administration
 - Cybersecurity
-- Development of Rest APIs with Express.js
 - Database Administration (SQL/TSQL & MongoDB)
+- Development of Rest APIs with Express.js
 
 # Review my Curriculum Vitae
 ![Curriculum Vitae of Joel Ramos](Certificates_and_Diplomas/Joel-I-Ramos-Curriculum-vitae.png)
 
 # Recent Achievements
 
-<!-- ## CCNAv7 Final Phase -->
+## CCNAv7 Final Phase
+![CCNAv7 Phase 3 Certification Letter](Certificates_and_Diplomas/Cisco/Cisco_CCNA_Enterprise_Networking_Security_Automation/CCNA3_CERT.png)
 
 ## B.S. in Computer Science and Technology
 
@@ -33,11 +34,11 @@ Méxican Electronic Card (Cédula Profesional): 13886158
 ## Cibersecurity Concentration-->
 
 
-## CiberOps
-![CiberOps Certification Letter](Certificates_and_Diplomas/Cisco/Cisco_CyberOps/CyberOps_Certificate.png)
-
 ## CCNAv7 Second Phase
 ![CCNAv7 Phase 2 Certification Letter](Certificates_and_Diplomas/Cisco/Cisco_CCNA_Switching_Routing_Wireless_Essentials/CCNA2_certificate.png)
+
+## CiberOps
+![CiberOps Certification Letter](Certificates_and_Diplomas/Cisco/Cisco_CyberOps/CyberOps_Certificate.png)
 
 ## CCNAv7 First Phate
 ![CCNAv7 Phase 1 Certification Letter](Certificates_and_Diplomas/Cisco/Cisco_CCNA_Introduction_to_Networks/Introduction_Certificate_Cisco.png)
@@ -126,6 +127,7 @@ Some of the school projects mentioned are under a confidentiality contract, not 
 # Summary: Certificates
 | Year | From | Description |
 | --- | --- | --- |
+| February 2024 | Cisco Networking Academy | Cisco CCNAv7 Enterprise Networking, Security and Automation |
 | December 2023 | Voluntariado TEC | Volunteer Day 2023 |
 | February 2023 | Coursera | Google: Foundations of Project Manager |
 | February 2023 | Cisco Networking Academy | Cisco CCNAv7 Switching, Routing, and Wireless Essencial |
